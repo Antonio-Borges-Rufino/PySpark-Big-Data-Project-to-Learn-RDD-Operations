@@ -18,3 +18,4 @@
     long-haul -> Mais que 2100-2600 milhas nauticas
     medium-haul -> Estando entre os 2 anteriores
 12. A coluna (Security Delay) indica atrasos que por motivos de segurança (evacuações de emergencia e volta a aeronave) e motivos de equipamento (Inoperancia) e filas maiores que 29 minutos na triagem.
+13. O outro arquivo é um arquivo de TXT para realizar operações de RDD simples no spark
