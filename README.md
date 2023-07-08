@@ -94,7 +94,7 @@ wordCount.collect()
 palavrasMaisPresentes = wordCount.filter(lambda linha: linha[1]>3)
 palavrasMaisPresentes.collect()
 ```
-### Resultado do processamento
+### Saida do processamento
 ```
 [('sed', 5), ('purus', 4), ('ac', 6), ('id', 4), ('ut', 4), ('turpis', 5)]
 ```
