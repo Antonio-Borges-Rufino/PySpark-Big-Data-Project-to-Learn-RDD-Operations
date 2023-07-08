@@ -98,3 +98,5 @@ palavrasMaisPresentes.collect()
 ```
 [('sed', 5), ('purus', 4), ('ac', 6), ('id', 4), ('ut', 4), ('turpis', 5)]
 ```
+8. Abaixo está uma parte de todo esse processamento visto da UI de administração de JOBS do Spark
+![](https://github.com/Antonio-Borges-Rufino/PySpark-Big-Data-Project-to-Learn-RDD-Operations/blob/main/spark.png)
